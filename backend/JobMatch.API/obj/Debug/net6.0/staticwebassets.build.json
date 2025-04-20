@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5/54cyoI86gTPAdKlUIKCAT7MvLIRURisMedkrLp/MM=",
+  "Source": "JobMatch.API",
+  "BasePath": "_content/JobMatch.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
